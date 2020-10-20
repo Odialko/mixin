@@ -1,16 +1,16 @@
 # mixins
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Result in the terminal
+Hulk has jumped to position Point(5, 5)
+Hulk has smashed resulting in damage to opponent of 100
+Hulk is healing himself to 100
+-----------------------------------------------------------
+Iron Man fly to bad guy at the position Point(10, 10)
+Iron Man attack bad guy at 80
+Computing pi... computation complete: 3.141592653589793
+-----------------------------------------------------------
+Super Man fly to bad guy at the position Point(10, 10)
+Super Man smashed the wall 100
+Super Man shooting from the eyes and the bad guy got 80
+Super Man is hit bad guy at 60 point
+Super Man healing himself after the fight to 100
